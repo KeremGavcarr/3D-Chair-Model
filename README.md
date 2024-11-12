@@ -10,7 +10,7 @@ This repository contains a meticulously crafted 3D chair model created using Ble
 
 ## Preview
 
-![Chair](https://github.com/user-attachments/assets/2cb6daa7-b25b-4bae-8c3b-cd4256c96b4a)
+![Chair](https://github.com/user-attachments/assets/8516c5d5-14da-4cc7-9f2f-3c574ce13433)
 
 ## Key Features
 - **Low-Poly Optimized**: Designed to run efficiently in real-time applications like games and simulations.
